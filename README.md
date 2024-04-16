@@ -62,3 +62,6 @@ The "Smart Trolley System with Automated Billing" project is a sophisticated app
 ![image](https://github.com/keerthana9042/Smart-Trolley-with-Automated-Billing-System-/assets/143820206/b8a01890-2ae2-435c-a18e-665cc7a37fda)
 
 # Prototype Video:
+
+https://github.com/Mithiloshini/Smart-Trolley-with-Automated-Billing-System/assets/143377019/cc4b16f6-9290-4142-8592-44ef4805b7b4
+
